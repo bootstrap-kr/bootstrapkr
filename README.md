@@ -14,7 +14,8 @@ bootstrap-kr 버전은 한국의 웹환경에 최적화 되게 만들어진 한�
 
 ## 목차
 
-- [추가내역](#추가내역)
+- [기능추가](#기능추가)
+- [파일구성](#파일구성)
 - [Documentation](#documentation)
 - [Contributing](#contributing)
 - [Community](#community)
@@ -23,11 +24,17 @@ bootstrap-kr 버전은 한국의 웹환경에 최적화 되게 만들어진 한�
 - [Copyright and license](#copyright-and-license)
 
 
-### 추가내역
+### 기능추가
 
-Within the download you'll find the following directories and files, logically grouping common assets and providing both compiled and minified variations. You'll see something like this:
+bootstrap-kr 버전은 다음과 같은 기능이 정식버전에 추가가 되어있습니다.
 
-```
+- Todo : 나눔고딕, 본고딕 웹폰트 추가
+- Todo : font-size : 12px 으로 변경
+- Todo : html element reset 구성 추가
+- Todo : 반응형 버튼 구성
+
+## 파일구성
+
 bootstrap/
 ├── css/
 │   ├── bootstrap.css
@@ -45,79 +52,19 @@ bootstrap/
     ├── glyphicons-halflings-regular.ttf
     ├── glyphicons-halflings-regular.woff
     └── glyphicons-halflings-regular.woff2
-```
-
-We provide compiled CSS and JS (`bootstrap.*`), as well as compiled and minified CSS and JS (`bootstrap.min.*`). CSS [source maps](https://developer.chrome.com/devtools/docs/css-preprocessors) (`bootstrap.*.map`) are available for use with certain browsers' developer tools. Fonts from Glyphicons are included, as is the optional Bootstrap theme.
-
-
-
-## Bugs and feature requests
-
-Have a bug or a feature request? Please first read the [issue guidelines](https://github.com/twbs/bootstrap/blob/master/CONTRIBUTING.md#using-the-issue-tracker) and search for existing and closed issues. If your problem or idea is not addressed yet, [please open a new issue](https://github.com/twbs/bootstrap/issues/new).
 
 
 ## Documentation
 
-Bootstrap's documentation, included in this repo in the root directory, is built with [Jekyll](http://jekyllrb.com) and publicly hosted on GitHub Pages at <http://getbootstrap.com>. The docs may also be run locally.
-
-### Running documentation locally
-
-1. If necessary, [install Jekyll](http://jekyllrb.com/docs/installation) (requires v2.5.x).
-  - **Windows users:** Read [this unofficial guide](http://jekyll-windows.juthilo.com/) to get Jekyll up and running without problems.
-2. Install the Ruby-based syntax highlighter, [Rouge](https://github.com/jneen/rouge), with `gem install rouge`.
-3. From the root `/bootstrap` directory, run `jekyll serve` in the command line.
-4. Open <http://localhost:9001> in your browser, and voilà.
-
-Learn more about using Jekyll by reading its [documentation](http://jekyllrb.com/docs/home/).
-
-### Documentation for previous releases
-
-Documentation for v2.3.2 has been made available for the time being at <http://getbootstrap.com/2.3.2/> while folks transition to Bootstrap 3.
-
-[Previous releases](https://github.com/twbs/bootstrap/releases) and their documentation are also available for download.
-
-
-
-## Contributing
-
-Please read through our [contributing guidelines](https://github.com/twbs/bootstrap/blob/master/CONTRIBUTING.md). Included are directions for opening issues, coding standards, and notes on development.
-
-Moreover, if your pull request contains JavaScript patches or features, you must include [relevant unit tests](https://github.com/twbs/bootstrap/tree/master/js/tests). All HTML and CSS should conform to the [Code Guide](https://github.com/mdo/code-guide), maintained by [Mark Otto](https://github.com/mdo).
-
-Editor preferences are available in the [editor config](https://github.com/twbs/bootstrap/blob/master/.editorconfig) for easy use in common text editors. Read more and download plugins at <http://editorconfig.org>.
-
-
-
-## Community
-
-Get updates on Bootstrap's development and chat with the project maintainers and community members.
-
-- Follow [@getbootstrap on Twitter](https://twitter.com/getbootstrap).
-- Read and subscribe to [The Official Bootstrap Blog](http://blog.getbootstrap.com).
-- Join [the official Slack room](https://bootstrap-slack.herokuapp.com).
-- Chat with fellow Bootstrappers in IRC. On the `irc.freenode.net` server, in the `##bootstrap` channel.
-- Implementation help may be found at Stack Overflow (tagged [`twitter-bootstrap-3`](https://stackoverflow.com/questions/tagged/twitter-bootstrap-3)).
-- Developers should use the keyword `bootstrap` on packages which modify or add to the functionality of Bootstrap when distributing through [npm](https://www.npmjs.com/browse/keyword/bootstrap) or similar delivery mechanisms for maximum discoverability.
-
-
-
-## Versioning
-
-For transparency into our release cycle and in striving to maintain backward compatibility, Bootstrap is maintained under [the Semantic Versioning guidelines](http://semver.org/). Sometimes we screw up, but we'll adhere to those rules whenever possible.
-
+Bootstrap의 번역된 문서는  <http://bootstrapk.com/>에서 제공을 하고 있습니다.
 
 
 ## Creators
 
-**Mark Otto**
+**Willy choi ( 최현원 )**
 
-- <https://twitter.com/mdo>
-- <https://github.com/mdo>
-
-**Jacob Thornton**
-
-- <https://twitter.com/fat>
-- <https://github.com/fat>
+- <http://domfam.com>
+- <http://cafe.naver.com/domfam>
 
 
 
