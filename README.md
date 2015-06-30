@@ -16,11 +16,9 @@ bootstrap-kr 버전은 한국의 웹환경에 최적화 되게 만들어진 한�
 
 - [기능추가](#기능추가)
 - [파일구성](#파일구성)
-- [Documentation](#documentation)
-- [Contributing](#contributing)
-- [Community](#community)
-- [Versioning](#versioning)
-- [Creators](#creators)
+- [파일구성](#파일구성)
+- [문서](#문서)
+- [제작자](#제작자)
 - [Copyright and license](#copyright-and-license)
 
 
@@ -35,6 +33,7 @@ bootstrap-kr 버전은 다음과 같은 기능이 정식버전에 추가가 되�
 
 ## 파일구성
 
+```
 bootstrap/
 ├── css/
 │   ├── bootstrap.css
@@ -52,18 +51,18 @@ bootstrap/
     ├── glyphicons-halflings-regular.ttf
     ├── glyphicons-halflings-regular.woff
     └── glyphicons-halflings-regular.woff2
+```
 
-
-## Documentation
+## 문서
 
 Bootstrap의 번역된 문서는  <http://bootstrapk.com/>에서 제공을 하고 있습니다.
 
 
-## Creators
+## 제작자
 
 **Willy choi ( 최현원 )**
 
-- <http://domfam.com>
+- <http://www.domfam.com>
 - <http://cafe.naver.com/domfam>
 
 
