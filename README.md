@@ -10,12 +10,11 @@ Bootstrap은 반응형이며 모바일 우선인 웹프로젝트 개발을 위�
 
 정식 버전은 다음의 위치에서 받을 수 있습니다. <http://getbootstrap.com>!
 
-bootstrap-kr 버전은 한국의 웹환경에 최적화 되게 만들어진 CSS frame입니다.
+bootstrap-kr 버전은 한국의 웹환경에 최적화 되게 만들어진 한국형 Bootstrap입니다.
 
 ## 목차
 
-- [Quick start](#quick-start)
-- [Bugs and feature requests](#bugs-and-feature-requests)
+- [추가내역](#추가내역)
 - [Documentation](#documentation)
 - [Contributing](#contributing)
 - [Community](#community)
@@ -23,20 +22,8 @@ bootstrap-kr 버전은 한국의 웹환경에 최적화 되게 만들어진 CSS 
 - [Creators](#creators)
 - [Copyright and license](#copyright-and-license)
 
-## Quick start
 
-Several quick start options are available:
-
-- [Download the latest release](https://github.com/twbs/bootstrap/archive/v3.3.5.zip).
-- Clone the repo: `git clone https://github.com/twbs/bootstrap.git`.
-- Install with [Bower](http://bower.io): `bower install bootstrap`.
-- Install with [npm](https://www.npmjs.com): `npm install bootstrap`.
-- Install with [Meteor](https://www.meteor.com): `meteor add twbs:bootstrap`.
-- Install with [Composer](https://getcomposer.org): `composer require twbs/bootstrap`.
-
-Read the [Getting started page](http://getbootstrap.com/getting-started/) for information on the framework contents, templates and examples, and more.
-
-### What's included
+### 추가내역
 
 Within the download you'll find the following directories and files, logically grouping common assets and providing both compiled and minified variations. You'll see something like this:
 
