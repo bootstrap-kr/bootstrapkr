@@ -8,7 +8,7 @@
 
 Bootstrap은 반응형이며 모바일 우선인 웹프로젝트 개발을 위한 가장 인기있는 HTML, CSS, JS 프레임워크입니다.
 
-정식 버전은 다음의 위치에서 받을 수 있습니다. <http://getbootstrap.com>!
+정식 버전은 다음의 위치에서 받을 수 있습니다. <http://getbootstrap.com>
 
 bootstrap-kr 버전은 한국의 웹환경에 최적화 되게 만들어진 한국형 Bootstrap입니다.
 
