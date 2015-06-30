@@ -19,7 +19,7 @@ bootstrap-kr 버전은 한국의 웹환경에 최적화 되게 만들어진 한�
 - [파일구성](#파일구성)
 - [문서](#문서)
 - [제작자](#제작자)
-- [Copyright and license](#copyright-and-license)
+- [저작권](#저작권)
 
 
 ### 기능추가
@@ -67,6 +67,6 @@ Bootstrap의 번역된 문서는  <http://bootstrapk.com/>에서 제공을 하�
 
 
 
-## Copyright and license
+## 저작권
 
 Code and documentation copyright 2011-2015 Twitter, Inc. Code released under [the MIT license](https://github.com/twbs/bootstrap/blob/master/LICENSE). Docs released under [Creative Commons](https://github.com/twbs/bootstrap/blob/master/docs/LICENSE).
