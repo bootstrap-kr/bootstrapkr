@@ -6,11 +6,13 @@
 [![devDependency Status](https://img.shields.io/david/dev/twbs/bootstrap.svg)](https://david-dm.org/twbs/bootstrap#info=devDependencies)
 [![Selenium Test Status](https://saucelabs.com/browser-matrix/bootstrap.svg)](https://saucelabs.com/u/bootstrap)
 
-Bootstrap is a sleek, intuitive, and powerful front-end framework for faster and easier web development, created by [Mark Otto](https://twitter.com/mdo) and [Jacob Thornton](https://twitter.com/fat), and maintained by the [core team](https://github.com/orgs/twbs/people) with the massive support and involvement of the community.
+Bootstrap은 반응형이며 모바일 우선인 웹프로젝트 개발을 위한 가장 인기있는 HTML, CSS, JS 프레임워크입니다.
 
-To get started, check out <http://getbootstrap.com>!
+정식 버전은 다음의 위치에서 받을 수 있습니다. <http://getbootstrap.com>!
 
-## Table of contents
+bootstrap-kr 버전은 한국의 웹환경에 최적화 되게 만들어진 CSS frame입니다.
+
+## 목차
 
 - [Quick start](#quick-start)
 - [Bugs and feature requests](#bugs-and-feature-requests)
