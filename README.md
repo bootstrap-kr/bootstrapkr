@@ -26,10 +26,9 @@ bootstrap-kr 버전은 한국의 웹환경에 최적화 되게 만들어진 한�
 
 bootstrap-kr 버전은 다음과 같은 기능이 정식버전에 추가가 되어있습니다.
 
-- Todo : 나눔고딕, 본고딕 웹폰트 추가
-- Todo : font-size : 12px 으로 변경
-- Todo : html element reset 구성 추가
-- Todo : 반응형 버튼 구성
+- 나눔고딕, 본고딕 웹폰트 추가
+- font-size : 12px 으로 변경
+- html element reset 구성 추가
 
 ## 파일구성
 
