@@ -1,7 +1,130 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="06385069-6977-419f-9449-be27ca35678e" name="Default" comment="">
+    <list default="true" id="06385069-6977-419f-9449-be27ca35678e" name="Default" comment="한글 테마 완성">
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/.idea/libraries/bootstrapkr_node_modules.xml" />
+      <change type="DELETED" beforePath="C:\Users\mac01\Desktop\bootstrap-kr\bootstrapkr\Gruntfile.js" afterPath="" />
+      <change type="DELETED" beforePath="C:\Users\mac01\Desktop\bootstrap-kr\bootstrapkr\dist\css\bootstrap-theme.css" afterPath="" />
+      <change type="DELETED" beforePath="C:\Users\mac01\Desktop\bootstrap-kr\bootstrapkr\dist\css\bootstrap-theme.css.map" afterPath="" />
+      <change type="DELETED" beforePath="C:\Users\mac01\Desktop\bootstrap-kr\bootstrapkr\dist\css\bootstrap-theme.min.css" afterPath="" />
+      <change type="DELETED" beforePath="C:\Users\mac01\Desktop\bootstrap-kr\bootstrapkr\dist\css\bootstrap.css" afterPath="" />
+      <change type="DELETED" beforePath="C:\Users\mac01\Desktop\bootstrap-kr\bootstrapkr\dist\css\bootstrap.css.map" afterPath="" />
+      <change type="DELETED" beforePath="C:\Users\mac01\Desktop\bootstrap-kr\bootstrapkr\dist\css\bootstrap.min.css" afterPath="" />
+      <change type="DELETED" beforePath="C:\Users\mac01\Desktop\bootstrap-kr\bootstrapkr\dist\fonts\glyphicons-halflings-regular.eot" afterPath="" />
+      <change type="DELETED" beforePath="C:\Users\mac01\Desktop\bootstrap-kr\bootstrapkr\dist\fonts\glyphicons-halflings-regular.svg" afterPath="" />
+      <change type="DELETED" beforePath="C:\Users\mac01\Desktop\bootstrap-kr\bootstrapkr\dist\fonts\glyphicons-halflings-regular.ttf" afterPath="" />
+      <change type="DELETED" beforePath="C:\Users\mac01\Desktop\bootstrap-kr\bootstrapkr\dist\fonts\glyphicons-halflings-regular.woff" afterPath="" />
+      <change type="DELETED" beforePath="C:\Users\mac01\Desktop\bootstrap-kr\bootstrapkr\dist\fonts\glyphicons-halflings-regular.woff2" afterPath="" />
+      <change type="DELETED" beforePath="C:\Users\mac01\Desktop\bootstrap-kr\bootstrapkr\dist\js\bootstrap.js" afterPath="" />
+      <change type="DELETED" beforePath="C:\Users\mac01\Desktop\bootstrap-kr\bootstrapkr\dist\js\bootstrap.min.js" afterPath="" />
+      <change type="DELETED" beforePath="C:\Users\mac01\Desktop\bootstrap-kr\bootstrapkr\dist\js\npm.js" afterPath="" />
+      <change type="DELETED" beforePath="C:\Users\mac01\Desktop\bootstrap-kr\bootstrapkr\dist\view\bootstrap-theme.html" afterPath="" />
+      <change type="DELETED" beforePath="C:\Users\mac01\Desktop\bootstrap-kr\bootstrapkr\dist\view\index.html" afterPath="" />
+      <change type="DELETED" beforePath="C:\Users\mac01\Desktop\bootstrap-kr\bootstrapkr\fonts\glyphicons-halflings-regular.eot" afterPath="" />
+      <change type="DELETED" beforePath="C:\Users\mac01\Desktop\bootstrap-kr\bootstrapkr\fonts\glyphicons-halflings-regular.svg" afterPath="" />
+      <change type="DELETED" beforePath="C:\Users\mac01\Desktop\bootstrap-kr\bootstrapkr\fonts\glyphicons-halflings-regular.ttf" afterPath="" />
+      <change type="DELETED" beforePath="C:\Users\mac01\Desktop\bootstrap-kr\bootstrapkr\fonts\glyphicons-halflings-regular.woff" afterPath="" />
+      <change type="DELETED" beforePath="C:\Users\mac01\Desktop\bootstrap-kr\bootstrapkr\fonts\glyphicons-halflings-regular.woff2" afterPath="" />
+      <change type="DELETED" beforePath="C:\Users\mac01\Desktop\bootstrap-kr\bootstrapkr\grunt\.jshintrc" afterPath="" />
+      <change type="DELETED" beforePath="C:\Users\mac01\Desktop\bootstrap-kr\bootstrapkr\grunt\bs-commonjs-generator.js" afterPath="" />
+      <change type="DELETED" beforePath="C:\Users\mac01\Desktop\bootstrap-kr\bootstrapkr\grunt\bs-glyphicons-data-generator.js" afterPath="" />
+      <change type="DELETED" beforePath="C:\Users\mac01\Desktop\bootstrap-kr\bootstrapkr\grunt\bs-lessdoc-parser.js" afterPath="" />
+      <change type="DELETED" beforePath="C:\Users\mac01\Desktop\bootstrap-kr\bootstrapkr\grunt\bs-raw-files-generator.js" afterPath="" />
+      <change type="DELETED" beforePath="C:\Users\mac01\Desktop\bootstrap-kr\bootstrapkr\grunt\configBridge.json" afterPath="" />
+      <change type="DELETED" beforePath="C:\Users\mac01\Desktop\bootstrap-kr\bootstrapkr\grunt\sauce_browsers.yml" afterPath="" />
+      <change type="DELETED" beforePath="C:\Users\mac01\Desktop\bootstrap-kr\bootstrapkr\js\affix.js" afterPath="" />
+      <change type="DELETED" beforePath="C:\Users\mac01\Desktop\bootstrap-kr\bootstrapkr\js\alert.js" afterPath="" />
+      <change type="DELETED" beforePath="C:\Users\mac01\Desktop\bootstrap-kr\bootstrapkr\js\button.js" afterPath="" />
+      <change type="DELETED" beforePath="C:\Users\mac01\Desktop\bootstrap-kr\bootstrapkr\js\carousel.js" afterPath="" />
+      <change type="DELETED" beforePath="C:\Users\mac01\Desktop\bootstrap-kr\bootstrapkr\js\collapse.js" afterPath="" />
+      <change type="DELETED" beforePath="C:\Users\mac01\Desktop\bootstrap-kr\bootstrapkr\js\dropdown.js" afterPath="" />
+      <change type="DELETED" beforePath="C:\Users\mac01\Desktop\bootstrap-kr\bootstrapkr\js\modal.js" afterPath="" />
+      <change type="DELETED" beforePath="C:\Users\mac01\Desktop\bootstrap-kr\bootstrapkr\js\popover.js" afterPath="" />
+      <change type="DELETED" beforePath="C:\Users\mac01\Desktop\bootstrap-kr\bootstrapkr\js\scrollspy.js" afterPath="" />
+      <change type="DELETED" beforePath="C:\Users\mac01\Desktop\bootstrap-kr\bootstrapkr\js\tab.js" afterPath="" />
+      <change type="DELETED" beforePath="C:\Users\mac01\Desktop\bootstrap-kr\bootstrapkr\js\tooltip.js" afterPath="" />
+      <change type="DELETED" beforePath="C:\Users\mac01\Desktop\bootstrap-kr\bootstrapkr\js\transition.js" afterPath="" />
+      <change type="DELETED" beforePath="C:\Users\mac01\Desktop\bootstrap-kr\bootstrapkr\less\alerts.less" afterPath="" />
+      <change type="DELETED" beforePath="C:\Users\mac01\Desktop\bootstrap-kr\bootstrapkr\less\badges.less" afterPath="" />
+      <change type="DELETED" beforePath="C:\Users\mac01\Desktop\bootstrap-kr\bootstrapkr\less\bootstrap-theme-kr.less" afterPath="" />
+      <change type="DELETED" beforePath="C:\Users\mac01\Desktop\bootstrap-kr\bootstrapkr\less\bootstrap.less" afterPath="" />
+      <change type="DELETED" beforePath="C:\Users\mac01\Desktop\bootstrap-kr\bootstrapkr\less\breadcrumbs.less" afterPath="" />
+      <change type="DELETED" beforePath="C:\Users\mac01\Desktop\bootstrap-kr\bootstrapkr\less\button-groups.less" afterPath="" />
+      <change type="DELETED" beforePath="C:\Users\mac01\Desktop\bootstrap-kr\bootstrapkr\less\buttons.less" afterPath="" />
+      <change type="DELETED" beforePath="C:\Users\mac01\Desktop\bootstrap-kr\bootstrapkr\less\carousel.less" afterPath="" />
+      <change type="DELETED" beforePath="C:\Users\mac01\Desktop\bootstrap-kr\bootstrapkr\less\close.less" afterPath="" />
+      <change type="DELETED" beforePath="C:\Users\mac01\Desktop\bootstrap-kr\bootstrapkr\less\code.less" afterPath="" />
+      <change type="DELETED" beforePath="C:\Users\mac01\Desktop\bootstrap-kr\bootstrapkr\less\component-animations.less" afterPath="" />
+      <change type="DELETED" beforePath="C:\Users\mac01\Desktop\bootstrap-kr\bootstrapkr\less\dropdowns.less" afterPath="" />
+      <change type="DELETED" beforePath="C:\Users\mac01\Desktop\bootstrap-kr\bootstrapkr\less\fonts-kr.less" afterPath="" />
+      <change type="DELETED" beforePath="C:\Users\mac01\Desktop\bootstrap-kr\bootstrapkr\less\forms.less" afterPath="" />
+      <change type="DELETED" beforePath="C:\Users\mac01\Desktop\bootstrap-kr\bootstrapkr\less\glyphicons.less" afterPath="" />
+      <change type="DELETED" beforePath="C:\Users\mac01\Desktop\bootstrap-kr\bootstrapkr\less\grid.less" afterPath="" />
+      <change type="DELETED" beforePath="C:\Users\mac01\Desktop\bootstrap-kr\bootstrapkr\less\input-groups.less" afterPath="" />
+      <change type="DELETED" beforePath="C:\Users\mac01\Desktop\bootstrap-kr\bootstrapkr\less\jumbotron.less" afterPath="" />
+      <change type="DELETED" beforePath="C:\Users\mac01\Desktop\bootstrap-kr\bootstrapkr\less\labels.less" afterPath="" />
+      <change type="DELETED" beforePath="C:\Users\mac01\Desktop\bootstrap-kr\bootstrapkr\less\list-group.less" afterPath="" />
+      <change type="DELETED" beforePath="C:\Users\mac01\Desktop\bootstrap-kr\bootstrapkr\less\media.less" afterPath="" />
+      <change type="DELETED" beforePath="C:\Users\mac01\Desktop\bootstrap-kr\bootstrapkr\less\mixins.less" afterPath="" />
+      <change type="DELETED" beforePath="C:\Users\mac01\Desktop\bootstrap-kr\bootstrapkr\less\mixins\alerts.less" afterPath="" />
+      <change type="DELETED" beforePath="C:\Users\mac01\Desktop\bootstrap-kr\bootstrapkr\less\mixins\background-variant.less" afterPath="" />
+      <change type="DELETED" beforePath="C:\Users\mac01\Desktop\bootstrap-kr\bootstrapkr\less\mixins\border-radius.less" afterPath="" />
+      <change type="DELETED" beforePath="C:\Users\mac01\Desktop\bootstrap-kr\bootstrapkr\less\mixins\buttons.less" afterPath="" />
+      <change type="DELETED" beforePath="C:\Users\mac01\Desktop\bootstrap-kr\bootstrapkr\less\mixins\center-block.less" afterPath="" />
+      <change type="DELETED" beforePath="C:\Users\mac01\Desktop\bootstrap-kr\bootstrapkr\less\mixins\clearfix.less" afterPath="" />
+      <change type="DELETED" beforePath="C:\Users\mac01\Desktop\bootstrap-kr\bootstrapkr\less\mixins\forms.less" afterPath="" />
+      <change type="DELETED" beforePath="C:\Users\mac01\Desktop\bootstrap-kr\bootstrapkr\less\mixins\gradients.less" afterPath="" />
+      <change type="DELETED" beforePath="C:\Users\mac01\Desktop\bootstrap-kr\bootstrapkr\less\mixins\grid-framework.less" afterPath="" />
+      <change type="DELETED" beforePath="C:\Users\mac01\Desktop\bootstrap-kr\bootstrapkr\less\mixins\grid.less" afterPath="" />
+      <change type="DELETED" beforePath="C:\Users\mac01\Desktop\bootstrap-kr\bootstrapkr\less\mixins\hide-text.less" afterPath="" />
+      <change type="DELETED" beforePath="C:\Users\mac01\Desktop\bootstrap-kr\bootstrapkr\less\mixins\image.less" afterPath="" />
+      <change type="DELETED" beforePath="C:\Users\mac01\Desktop\bootstrap-kr\bootstrapkr\less\mixins\labels.less" afterPath="" />
+      <change type="DELETED" beforePath="C:\Users\mac01\Desktop\bootstrap-kr\bootstrapkr\less\mixins\list-group.less" afterPath="" />
+      <change type="DELETED" beforePath="C:\Users\mac01\Desktop\bootstrap-kr\bootstrapkr\less\mixins\nav-divider.less" afterPath="" />
+      <change type="DELETED" beforePath="C:\Users\mac01\Desktop\bootstrap-kr\bootstrapkr\less\mixins\nav-vertical-align.less" afterPath="" />
+      <change type="DELETED" beforePath="C:\Users\mac01\Desktop\bootstrap-kr\bootstrapkr\less\mixins\opacity.less" afterPath="" />
+      <change type="DELETED" beforePath="C:\Users\mac01\Desktop\bootstrap-kr\bootstrapkr\less\mixins\pagination.less" afterPath="" />
+      <change type="DELETED" beforePath="C:\Users\mac01\Desktop\bootstrap-kr\bootstrapkr\less\mixins\panels.less" afterPath="" />
+      <change type="DELETED" beforePath="C:\Users\mac01\Desktop\bootstrap-kr\bootstrapkr\less\mixins\progress-bar.less" afterPath="" />
+      <change type="DELETED" beforePath="C:\Users\mac01\Desktop\bootstrap-kr\bootstrapkr\less\mixins\reset-filter.less" afterPath="" />
+      <change type="DELETED" beforePath="C:\Users\mac01\Desktop\bootstrap-kr\bootstrapkr\less\mixins\reset-text.less" afterPath="" />
+      <change type="DELETED" beforePath="C:\Users\mac01\Desktop\bootstrap-kr\bootstrapkr\less\mixins\resize.less" afterPath="" />
+      <change type="DELETED" beforePath="C:\Users\mac01\Desktop\bootstrap-kr\bootstrapkr\less\mixins\responsive-visibility.less" afterPath="" />
+      <change type="DELETED" beforePath="C:\Users\mac01\Desktop\bootstrap-kr\bootstrapkr\less\mixins\size.less" afterPath="" />
+      <change type="DELETED" beforePath="C:\Users\mac01\Desktop\bootstrap-kr\bootstrapkr\less\mixins\tab-focus.less" afterPath="" />
+      <change type="DELETED" beforePath="C:\Users\mac01\Desktop\bootstrap-kr\bootstrapkr\less\mixins\table-row.less" afterPath="" />
+      <change type="DELETED" beforePath="C:\Users\mac01\Desktop\bootstrap-kr\bootstrapkr\less\mixins\text-emphasis.less" afterPath="" />
+      <change type="DELETED" beforePath="C:\Users\mac01\Desktop\bootstrap-kr\bootstrapkr\less\mixins\text-overflow.less" afterPath="" />
+      <change type="DELETED" beforePath="C:\Users\mac01\Desktop\bootstrap-kr\bootstrapkr\less\mixins\vendor-prefixes.less" afterPath="" />
+      <change type="DELETED" beforePath="C:\Users\mac01\Desktop\bootstrap-kr\bootstrapkr\less\modals.less" afterPath="" />
+      <change type="DELETED" beforePath="C:\Users\mac01\Desktop\bootstrap-kr\bootstrapkr\less\navbar.less" afterPath="" />
+      <change type="DELETED" beforePath="C:\Users\mac01\Desktop\bootstrap-kr\bootstrapkr\less\navs.less" afterPath="" />
+      <change type="DELETED" beforePath="C:\Users\mac01\Desktop\bootstrap-kr\bootstrapkr\less\nomalize-kr.less" afterPath="" />
+      <change type="DELETED" beforePath="C:\Users\mac01\Desktop\bootstrap-kr\bootstrapkr\less\normalize.less" afterPath="" />
+      <change type="DELETED" beforePath="C:\Users\mac01\Desktop\bootstrap-kr\bootstrapkr\less\pager.less" afterPath="" />
+      <change type="DELETED" beforePath="C:\Users\mac01\Desktop\bootstrap-kr\bootstrapkr\less\pagination.less" afterPath="" />
+      <change type="DELETED" beforePath="C:\Users\mac01\Desktop\bootstrap-kr\bootstrapkr\less\panels.less" afterPath="" />
+      <change type="DELETED" beforePath="C:\Users\mac01\Desktop\bootstrap-kr\bootstrapkr\less\popovers.less" afterPath="" />
+      <change type="DELETED" beforePath="C:\Users\mac01\Desktop\bootstrap-kr\bootstrapkr\less\print.less" afterPath="" />
+      <change type="DELETED" beforePath="C:\Users\mac01\Desktop\bootstrap-kr\bootstrapkr\less\progress-bars.less" afterPath="" />
+      <change type="DELETED" beforePath="C:\Users\mac01\Desktop\bootstrap-kr\bootstrapkr\less\responsive-embed.less" afterPath="" />
+      <change type="DELETED" beforePath="C:\Users\mac01\Desktop\bootstrap-kr\bootstrapkr\less\responsive-utilities.less" afterPath="" />
+      <change type="DELETED" beforePath="C:\Users\mac01\Desktop\bootstrap-kr\bootstrapkr\less\scaffolding.less" afterPath="" />
+      <change type="DELETED" beforePath="C:\Users\mac01\Desktop\bootstrap-kr\bootstrapkr\less\tables.less" afterPath="" />
+      <change type="DELETED" beforePath="C:\Users\mac01\Desktop\bootstrap-kr\bootstrapkr\less\theme.less" afterPath="" />
+      <change type="DELETED" beforePath="C:\Users\mac01\Desktop\bootstrap-kr\bootstrapkr\less\thumbnails.less" afterPath="" />
+      <change type="DELETED" beforePath="C:\Users\mac01\Desktop\bootstrap-kr\bootstrapkr\less\tooltip.less" afterPath="" />
+      <change type="DELETED" beforePath="C:\Users\mac01\Desktop\bootstrap-kr\bootstrapkr\less\type.less" afterPath="" />
+      <change type="DELETED" beforePath="C:\Users\mac01\Desktop\bootstrap-kr\bootstrapkr\less\utilities.less" afterPath="" />
+      <change type="DELETED" beforePath="C:\Users\mac01\Desktop\bootstrap-kr\bootstrapkr\less\variables.less" afterPath="" />
+      <change type="DELETED" beforePath="C:\Users\mac01\Desktop\bootstrap-kr\bootstrapkr\less\wells.less" afterPath="" />
+      <change type="MOVED" beforePath="C:\Users\mac01\Desktop\bootstrap-kr\bootstrapkr\README-KR.md" afterPath="$PROJECT_DIR$/README-kr.md" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/package.json" afterPath="$PROJECT_DIR$/package.json" />
+    </list>
+    <list id="a4fdfa2e-2d07-4c08-8299-76d9efa968fb" name="no commit" comment="">
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/.idea/jsLibraryMappings.xml" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/.idea/watcherTasks.xml" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.idea/bootstrapkr.iml" afterPath="$PROJECT_DIR$/.idea/bootstrapkr.iml" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.idea/workspace.xml" afterPath="$PROJECT_DIR$/.idea/workspace.xml" />
     </list>
     <ignored path="bootstrapkr.iws" />
@@ -22,28 +145,43 @@
     <favorites_list name="bootstrapkr" />
   </component>
   <component name="FileEditorManager">
-    <leaf>
-      <file leaf-file-name="a.md" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/a.md">
-          <provider selected="true" editor-type-id="text-editor">
-            <state vertical-scroll-proportion="-5.428571">
-              <caret line="8" column="52" selection-start-line="0" selection-start-column="0" selection-end-line="72" selection-end-column="0" />
-              <folding />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file leaf-file-name="README.md" pinned="false" current-in-tab="true">
-        <entry file="file://$PROJECT_DIR$/README.md">
-          <provider selected="true" editor-type-id="text-editor">
-            <state vertical-scroll-proportion="0.56271577">
-              <caret line="54" column="0" selection-start-line="54" selection-start-column="0" selection-end-line="54" selection-end-column="0" />
-              <folding />
-            </state>
-          </provider>
-        </entry>
-      </file>
-    </leaf>
+    <splitter split-orientation="horizontal" split-proportion="0.5">
+      <split-first>
+        <leaf>
+          <file leaf-file-name="package.json" pinned="false" current-in-tab="true">
+            <entry file="file://$PROJECT_DIR$/package.json">
+              <provider selected="true" editor-type-id="text-editor">
+                <state vertical-scroll-proportion="0.5028769">
+                  <caret line="23" column="0" selection-start-line="23" selection-start-column="0" selection-end-line="23" selection-end-column="0" />
+                  <folding />
+                </state>
+              </provider>
+            </entry>
+          </file>
+        </leaf>
+      </split-first>
+      <split-second>
+        <leaf>
+          <file leaf-file-name="package.json" pinned="false" current-in-tab="true">
+            <entry file="file://$PROJECT_DIR$/package.json">
+              <provider selected="true" editor-type-id="text-editor">
+                <state vertical-scroll-proportion="0.4871795">
+                  <caret line="23" column="0" selection-start-line="23" selection-start-column="0" selection-end-line="23" selection-end-column="0" />
+                  <folding />
+                </state>
+              </provider>
+            </entry>
+          </file>
+        </leaf>
+      </split-second>
+    </splitter>
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Html5" />
+      </list>
+    </option>
   </component>
   <component name="Git.Settings">
     <option name="PUSH_AUTO_UPDATE" value="true" />
@@ -52,8 +190,17 @@
   <component name="IdeDocumentHistory">
     <option name="CHANGED_PATHS">
       <list>
-        <option value="$PROJECT_DIR$/dist/js/npm.js" />
+        <option value="$USER_HOME$/Documents/카카오톡 받은 파일/sample/sample.html" />
+        <option value="$PROJECT_DIR$/dist/css/fonts-kr.css" />
+        <option value="$PROJECT_DIR$/less/fonts-kr.less" />
         <option value="$PROJECT_DIR$/README.md" />
+        <option value="$PROJECT_DIR$/dist/css/bootstrap-theme-kr.css" />
+        <option value="$PROJECT_DIR$/dist/view/index.html" />
+        <option value="$PROJECT_DIR$/dist/view/bootstrap-theme.html" />
+        <option value="$PROJECT_DIR$/less/bootstrap-theme-kr.less" />
+        <option value="$PROJECT_DIR$/less/nomalize-kr.less" />
+        <option value="$PROJECT_DIR$/dist/js/npm.js" />
+        <option value="$PROJECT_DIR$/package.json" />
       </list>
     </option>
   </component>
@@ -77,7 +224,7 @@
     <OptionsSetting value="true" id="Update" />
     <OptionsSetting value="true" id="Status" />
     <OptionsSetting value="true" id="Edit" />
-    <ConfirmationsSetting value="0" id="Add" />
+    <ConfirmationsSetting value="2" id="Add" />
     <ConfirmationsSetting value="0" id="Remove" />
   </component>
   <component name="ProjectView">
@@ -94,13 +241,16 @@
     </navigator>
     <panes>
       <pane id="Scope" />
-      <pane id="Scratches" />
       <pane id="ProjectPane">
         <subPane>
           <PATH>
             <PATH_ELEMENT>
               <option name="myItemId" value="bootstrapkr" />
               <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ProjectViewProjectNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="External Libraries" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ExternalLibrariesNode" />
             </PATH_ELEMENT>
           </PATH>
           <PATH>
@@ -115,19 +265,36 @@
           </PATH>
         </subPane>
       </pane>
+      <pane id="Scratches" />
     </panes>
   </component>
   <component name="PropertiesComponent">
     <property name="WebServerToolWindowFactoryState" value="false" />
-    <property name="last_opened_file_path" value="$PROJECT_DIR$" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$/../../MOP" />
     <property name="HbShouldOpenHtmlAsHb" value="" />
+    <property name="settings.editor.selected.configurable" value="watcher.settings" />
+    <property name="settings.editor.splitter.proportion" value="0.2" />
+    <property name="FullScreen" value="false" />
+    <property name="DefaultHtmlFileTemplate" value="Html5" />
+    <property name="recentsLimit" value="5" />
   </component>
   <component name="RecentsManager">
+    <key name="CopyFile.RECENT_KEYS">
+      <recent name="C:\Users\mac01\Desktop\bootstrap-kr\bootstrapkr\dist\view" />
+      <recent name="C:\Users\mac01\Desktop\bootstrap-kr\bootstrapkr\dist\css" />
+      <recent name="C:\Users\mac01\Desktop\bootstrap-kr\bootstrapkr\less" />
+    </key>
     <key name="MoveFile.RECENT_KEYS">
       <recent name="C:\Users\mac01\Desktop\bootstrap-kr\bootstrapkr" />
     </key>
   </component>
-  <component name="RunManager">
+  <component name="RunManager" selected="JavaScript Debug.bootstrap-theme.html">
+    <configuration default="false" name="index.html" type="JavascriptDebugType" factoryName="JavaScript Debug" temporary="true" nameIsGenerated="true" uri="http://localhost:63342/bootstrapkr/dist/view/index.html">
+      <method />
+    </configuration>
+    <configuration default="false" name="bootstrap-theme.html" type="JavascriptDebugType" factoryName="JavaScript Debug" temporary="true" nameIsGenerated="true" uri="http://localhost:63342/bootstrapkr/dist/view/bootstrap-theme.html">
+      <method />
+    </configuration>
     <configuration default="true" type="DartCommandLineRunConfigurationType" factoryName="Dart Command Line Application">
       <method />
     </configuration>
@@ -166,6 +333,16 @@
       <envs />
       <method />
     </configuration>
+    <list size="2">
+      <item index="0" class="java.lang.String" itemvalue="JavaScript Debug.index.html" />
+      <item index="1" class="java.lang.String" itemvalue="JavaScript Debug.bootstrap-theme.html" />
+    </list>
+    <recent_temporary>
+      <list size="2">
+        <item index="0" class="java.lang.String" itemvalue="JavaScript Debug.bootstrap-theme.html" />
+        <item index="1" class="java.lang.String" itemvalue="JavaScript Debug.index.html" />
+      </list>
+    </recent_temporary>
   </component>
   <component name="ShelveChangesManager" show_recycled="false" />
   <component name="SvnConfiguration">
@@ -174,6 +351,7 @@
   <component name="TaskManager">
     <task active="true" id="Default" summary="Default task">
       <changelist id="06385069-6977-419f-9449-be27ca35678e" name="Default" comment="" />
+      <changelist id="a4fdfa2e-2d07-4c08-8299-76d9efa968fb" name="no commit" comment="" />
       <created>1435639241586</created>
       <option name="number" value="Default" />
       <updated>1435639241586</updated>
@@ -214,46 +392,96 @@
       <option name="project" value="LOCAL" />
       <updated>1435651252942</updated>
     </task>
-    <option name="localTasksCounter" value="7" />
+    <task id="LOCAL-00007" summary="readme 수정">
+      <created>1435718680380</created>
+      <option name="number" value="00007" />
+      <option name="project" value="LOCAL" />
+      <updated>1435718680380</updated>
+    </task>
+    <task id="LOCAL-00008" summary="readme 수정">
+      <created>1436073896459</created>
+      <option name="number" value="00008" />
+      <option name="project" value="LOCAL" />
+      <updated>1436073896459</updated>
+    </task>
+    <task id="LOCAL-00009" summary="한글 테마 완성">
+      <created>1436081070400</created>
+      <option name="number" value="00009" />
+      <option name="project" value="LOCAL" />
+      <updated>1436081070400</updated>
+    </task>
+    <task id="LOCAL-00010" summary="한글 테마 완성">
+      <created>1436081131212</created>
+      <option name="number" value="00010" />
+      <option name="project" value="LOCAL" />
+      <updated>1436081131212</updated>
+    </task>
+    <option name="localTasksCounter" value="11" />
     <servers />
   </component>
+  <component name="TodoView">
+    <todo-panel id="selected-file">
+      <is-autoscroll-to-source value="true" />
+    </todo-panel>
+    <todo-panel id="all">
+      <are-packages-shown value="true" />
+      <is-autoscroll-to-source value="true" />
+    </todo-panel>
+  </component>
   <component name="ToolWindowManager">
-    <frame x="-8" y="-8" width="1936" height="1056" extended-state="6" />
-    <editor active="false" />
+    <frame x="-8" y="-8" width="1936" height="1056" extended-state="0" />
+    <editor active="true" />
     <layout>
-      <window_info id="Project" active="true" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" weight="0.24973656" sideWeight="0.5" order="0" side_tool="false" content_ui="combo" />
-      <window_info id="TODO" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="6" side_tool="false" content_ui="tabs" />
-      <window_info id="Event Log" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="7" side_tool="true" content_ui="tabs" />
+      <window_info id="Project" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" weight="0.14646997" sideWeight="0.5" order="0" side_tool="false" content_ui="combo" />
+      <window_info id="TODO" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.32937366" sideWeight="0.5" order="6" side_tool="false" content_ui="tabs" />
+      <window_info id="Event Log" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.32864866" sideWeight="0.22497366" order="7" side_tool="true" content_ui="tabs" />
       <window_info id="Application Servers" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
-      <window_info id="Find" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
-      <window_info id="Version Control" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
+      <window_info id="Version Control" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.32864866" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
       <window_info id="Structure" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.25" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
-      <window_info id="Terminal" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.32937366" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
+      <window_info id="Terminal" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.32721382" sideWeight="0.7750263" order="7" side_tool="false" content_ui="tabs" />
       <window_info id="Favorites" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="2" side_tool="true" content_ui="tabs" />
       <window_info id="Cvs" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.25" sideWeight="0.5" order="4" side_tool="false" content_ui="tabs" />
-      <window_info id="Messages" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
+      <window_info id="Messages" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" weight="0.32972974" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
       <window_info id="Message" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="0" side_tool="false" content_ui="tabs" />
       <window_info id="Commander" active="false" anchor="right" auto_hide="false" internal_type="SLIDING" type="SLIDING" visible="false" weight="0.4" sideWeight="0.5" order="0" side_tool="false" content_ui="tabs" />
       <window_info id="Inspection" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.4" sideWeight="0.5" order="5" side_tool="false" content_ui="tabs" />
-      <window_info id="Run" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="2" side_tool="false" content_ui="tabs" />
+      <window_info id="Run" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.32972974" sideWeight="0.5" order="2" side_tool="false" content_ui="tabs" />
       <window_info id="Hierarchy" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.25" sideWeight="0.5" order="2" side_tool="false" content_ui="combo" />
+      <window_info id="Find" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
       <window_info id="Ant Build" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.25" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
       <window_info id="Debug" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.4" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
     </layout>
+  </component>
+  <component name="Vcs.Log.UiProperties">
+    <option name="RECENTLY_FILTERED_USER_GROUPS">
+      <collection />
+    </option>
+    <option name="RECENTLY_FILTERED_BRANCH_GROUPS">
+      <collection />
+    </option>
   </component>
   <component name="VcsContentAnnotationSettings">
     <option name="myLimit" value="2678400000" />
   </component>
   <component name="VcsManagerConfiguration">
     <MESSAGE value="readme 수정" />
-    <option name="LAST_COMMIT_MESSAGE" value="readme 수정" />
+    <MESSAGE value="한글 테마 완성" />
+    <option name="LAST_COMMIT_MESSAGE" value="한글 테마 완성" />
   </component>
   <component name="XDebuggerManager">
     <breakpoint-manager />
     <watches-manager />
   </component>
   <component name="editorHistoryManager">
-    <entry file="file://$PROJECT_DIR$/dist/js/npm.js">
+    <entry file="file://$PROJECT_DIR$/package.json">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.0">
+          <caret line="23" column="0" selection-start-line="23" selection-start-column="0" selection-end-line="23" selection-end-column="0" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/package.json">
       <provider selected="true" editor-type-id="text-editor">
         <state vertical-scroll-proportion="0.0">
           <caret line="0" column="0" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
@@ -261,26 +489,87 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/js/tab.js">
+    <entry file="file://$PROJECT_DIR$/dist/css/bootstrap-theme-kr.css">
       <provider selected="true" editor-type-id="text-editor">
         <state vertical-scroll-proportion="0.0">
-          <caret line="0" column="0" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
-          <folding />
+          <caret line="19" column="2" selection-start-line="19" selection-start-column="2" selection-end-line="19" selection-end-column="2" />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/a.md">
+    <entry file="file://$PROJECT_DIR$/../../40_app_portal/js/ui.common.js">
       <provider selected="true" editor-type-id="text-editor">
-        <state vertical-scroll-proportion="-5.428571">
+        <state vertical-scroll-proportion="0.0">
+          <caret line="0" column="0" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/dist/css/bootstrap-theme-kr.css">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.0">
+          <caret line="19" column="2" selection-start-line="19" selection-start-column="2" selection-end-line="19" selection-end-column="2" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/../../40_app_portal/js/ui.common.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.0">
+          <caret line="0" column="0" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/README-kr.md">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.0">
           <caret line="8" column="52" selection-start-line="0" selection-start-column="0" selection-end-line="72" selection-end-column="0" />
-          <folding />
         </state>
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/README.md">
       <provider selected="true" editor-type-id="text-editor">
-        <state vertical-scroll-proportion="0.56271577">
-          <caret line="54" column="0" selection-start-line="54" selection-start-column="0" selection-end-line="54" selection-end-column="0" />
+        <state vertical-scroll-proportion="0.0">
+          <caret line="0" column="0" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$USER_HOME$/Documents/카카오톡 받은 파일/sample/sample.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.3940092">
+          <caret line="43" column="0" selection-start-line="43" selection-start-column="0" selection-end-line="43" selection-end-column="0" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/../../40_app_portal/js/ui.common.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.0">
+          <caret line="0" column="0" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/README-kr.md">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.20727272">
+          <caret line="6" column="32" selection-start-line="6" selection-start-column="32" selection-end-line="6" selection-end-column="32" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/README.md">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="-0.0">
+          <caret line="14" column="5" selection-start-line="14" selection-start-column="5" selection-end-line="14" selection-end-column="5" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/dist/css/bootstrap-theme-kr.css">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.0">
+          <caret line="19" column="2" selection-start-line="19" selection-start-column="2" selection-end-line="19" selection-end-column="2" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/package.json">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.4871795">
+          <caret line="23" column="0" selection-start-line="23" selection-start-column="0" selection-end-line="23" selection-end-column="0" />
           <folding />
         </state>
       </provider>

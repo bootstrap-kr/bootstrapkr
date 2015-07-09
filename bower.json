@@ -1,0 +1,50 @@
+{
+  "name": "willy",
+  "version": "1.2.3",
+  "description": "bower setting",
+  "dependencies": {
+    "jquery": "~2.1.4",
+    "jquery.ui": "~1.11.4",
+    "jindojs-jindo": "~2.12.1",
+    "jindojs-jmc": "~1.17.1",
+    "jindojs-jc": "~1.14.0",
+    "dw-bxslider-4": "~4.2.5",
+    "velocity": "~1.2.2",
+    "jquery.transit": "~0.9.12",
+    "jquery.lazyload": "~1.9.5",
+    "picturefill": "~2.3.1",
+    "imager.js": "~0.5.0",
+    "icheck": "~1.0.2",
+    "photoswipe": "~4.0.8",
+    "ngDialog": "~0.4.0",
+    "remodal": "~1.0.1",
+    "moment": "~2.10.3",
+    "propcom-zRS": "~2.10.4",
+    "font-awesome": "~4.3.0",
+    "modernizr": "~2.8.3",
+    "requirejs": "~2.1.18",
+    "animate.css": "~3.3.0",
+    "colorbox": "~1.6.1",
+    "eventEmitter": "~4.2.11",
+    "slick-carousel": "~1.5.5",
+    "jquery-placeholder": "~2.1.2",
+    "waypoints": "~3.1.1",
+    "highcharts": "~4.1.7",
+    "fullpage.js": "~2.6.6",
+    "datatables": "~1.10.7"
+  },
+  "keywords": [
+    "wily"
+  ],
+  "authors": [
+    "willy choi"
+  ],
+  "license": "MIT",
+  "ignore": [
+    "**/.*",
+    "node_modules",
+    "bower_components",
+    "test",
+    "tests"
+  ]
+}
